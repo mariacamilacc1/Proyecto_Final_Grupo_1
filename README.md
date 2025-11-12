@@ -2,5 +2,5 @@
 Proyecto Final de Programación 2. 2025-2.
 # Integrantes:
 -  Líder: María Camila Cárdenas Cañón.
--  Estudiante 1: Daira Julieth Campos Vásquez.
--  Estudiante 2: Lizeth Fernanda Niño Joya. 
+-  Estudiante 1: Lizeth Fernanda Niño Joya.
+-  Estudiante 2: Daira Julieth Campos Vásquez.
